@@ -5,6 +5,7 @@ using namespace std;
 int main() {
 
     int num;
+    cout <<"Digite um numero que seja positivo" << endl;
     do {
         cin >> num;
         if (num <= 0)
